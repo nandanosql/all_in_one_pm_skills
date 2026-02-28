@@ -179,9 +179,3 @@ Want to add a skill? Use the [`SKILL_TEMPLATE.md`](SKILL_TEMPLATE.md) to create 
 ## 📜 License & Credits
 
 **Created by [Nandan Priyadarshi](https://github.com/nandanosql)**
-
-```markdown
-Released under the [MIT License](LICENSE).
-```
-
-**v1.0** — February 2026
