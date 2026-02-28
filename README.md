@@ -153,6 +153,61 @@ Learn everything about PM Skills in detail:
 
 ---
 
+## 💼 Real-World Use Cases
+
+Not sure where to start? Find your situation below:
+
+### "I need to write a PRD for a new feature"
+→ **Workflow:** [`prd-development`](skills/specification/prd-development/SKILL.md) — walks you through problem → solution → stories over 2-4 days
+
+### "I need to validate a customer problem before building"
+→ **Workflow:** [`discovery-process`](skills/discovery/discovery-process/SKILL.md) — 3-4 week discovery cycle with interviews, JTBD analysis, and synthesis
+
+### "I need to align stakeholders on product strategy"
+→ **Workflow:** [`product-strategy-session`](skills/strategy/product-strategy-session/SKILL.md) — full 6-phase strategy session from research to roadmap
+
+### "I need to prioritize my backlog"
+→ **Interactive:** [`prioritization-advisor`](skills/planning/prioritization-advisor/SKILL.md) — asks about your context, recommends RICE/ICE/Kano/MoSCoW, applies it
+
+### "I need to create a quarterly roadmap"
+→ **Workflow:** [`roadmap-planning`](skills/planning/roadmap-planning/SKILL.md) — epics → prioritization → sequencing → communication
+
+### "I need to split a large epic into stories"
+→ **Interactive:** [`epic-breakdown-advisor`](skills/planning/epic-breakdown-advisor/SKILL.md) — applies 9 proven splitting patterns from Richard Lawrence
+
+### "I need to plan a product launch"
+→ **Workflow:** [`launch-process`](skills/launch/launch-process/SKILL.md) — T-6 to T+2 week launch with cross-functional checklists
+
+### "I want to know if we've hit product-market fit"
+→ **Interactive:** [`pol-probe-advisor`](skills/growth/pol-probe-advisor/SKILL.md) — runs the Sean Ellis "very disappointed" test and interprets results
+
+### "I need to diagnose why users are churning"
+→ **Interactive:** [`churn-diagnosis-advisor`](skills/growth/churn-diagnosis-advisor/SKILL.md) — segments churn types, identifies root causes, designs interventions
+
+### "I'm preparing for a PM interview"
+→ **Interactive:** [`pm-interview-prep`](skills/leadership/pm-interview-prep/SKILL.md) — practice across all PM interview types with feedback
+
+---
+
+## 🌟 What Makes These Skills Different
+
+### ✅ Battle-Tested Frameworks
+Built on proven methods from Geoffrey Moore, Jeff Patton, Teresa Torres, Amazon, Richard Lawrence, MITRE, and more.
+
+### ✅ Agent-Ready Format
+Optimized for AI comprehension — not blog posts, not books, not courses. **Executable frameworks** with fill-in templates.
+
+### ✅ Quality Rubrics Built In
+Every skill self-scores output across 5 dimensions (0–2 scale, target 8+/10). No more "is this good enough?" guessing.
+
+### ✅ Example-Rich
+Every skill shows both **good** and **bad** examples with explanations — so you know exactly what quality looks like.
+
+### ✅ Zero Fluff
+Every word earns its keep. No filler, no buzzwords, no generic advice. Named pitfalls with fixes, not "best practices" listicles.
+
+---
+
 ## 📐 Skill Format
 
 Every skill follows a **consistent enhanced structure** with YAML frontmatter:
@@ -197,10 +252,46 @@ triggers: ["phrases that activate this skill"]
 
 ## 🤝 Contributing
 
-Want to add a skill? Use the [`SKILL_TEMPLATE.md`](SKILL_TEMPLATE.md) to create new skills following the standard format. PRs welcome!
+Found a gap? Have a PM framework you'd like to see included?
+
+**Ways to contribute:**
+- 🐛 **Report issues** — [Open an issue](https://github.com/nandanosql/pm-skills/issues) with bug reports or suggestions
+- 🛠️ **Submit a skill** — Use [`SKILL_TEMPLATE.md`](SKILL_TEMPLATE.md) and follow the [Building Guide](docs/building-your-own-skill.md)
+- 💬 **Share feedback** — Tell us what's working, what's confusing, or what's missing
+- ⭐ **Star the repo** — Help others discover PM Skills
+
+See the [Building Your Own Skill](docs/building-your-own-skill.md) guide for detailed instructions.
+
+---
+
+## 📖 Related Resources
+
+- **[PM Skills Documentation](docs/README.md)** — Comprehensive guides, deep dives, and tutorials
+- **[Full Skill Catalog](CATALOG.md)** — All 103 skills organized by domain
+- **[Nandan's GitHub](https://github.com/nandanosql)** — More tools and projects
 
 ---
 
 ## 📜 License & Credits
 
 **Created by [Nandan Priyadarshi](https://github.com/nandanosql)**
+
+---
+
+## 📞 Questions?
+
+- **GitHub Issues:** [Report bugs or suggest features](https://github.com/nandanosql/pm-skills/issues)
+- **GitHub:** [Connect with Nandan](https://github.com/nandanosql)
+
+---
+
+<p align="center"><b>v1.0 — February 2026</b></p>
+
+**Highlights:**
+- 🎯 103 skills across 10 PM lifecycle domains
+- 🧱 62 Component + 🔄 32 Interactive + 🎭 7 Workflow skills
+- 📚 13 comprehensive documentation guides
+- 📐 Consistent skill format with YAML frontmatter, quality rubrics, and examples
+- 🤖 Works with Claude, ChatGPT, Gemini, Codex & any AI agent
+
+<p align="center"><i>Helping product managers work smarter with AI.</i></p>
