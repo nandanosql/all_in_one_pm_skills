@@ -128,6 +128,31 @@ Browse the **[Full Catalog →](CATALOG.md)** or use these common starting point
 
 ---
 
+## 📚 Documentation
+
+Learn everything about PM Skills in detail:
+
+| Guide | Description |
+|-------|-------------|
+| [**Getting Started**](docs/getting-started.md) | 5-minute quick start — find a skill and go |
+| [**Using with Claude**](docs/using-with-claude.md) | Claude Code, Desktop, and Web setup |
+| [**Using with ChatGPT**](docs/using-with-chatgpt.md) | Projects, Custom GPTs, and connectors |
+| [**Using with Gemini**](docs/using-with-gemini.md) | Gemini Chat, CLI, and AI Studio |
+| [**Using with Codex**](docs/using-with-codex.md) | Codex local and ChatGPT-linked modes |
+| [**Domain Deep Dives**](docs/domain-deep-dives.md) | All 10 lifecycle domains with learning paths |
+| [**Skill Format Guide**](docs/skill-format-guide.md) | Anatomy of a skill file — every field explained |
+| [**Skill Chaining**](docs/skill-chaining-and-workflows.md) | How to compose skills into workflows |
+| [**Building Your Own Skill**](docs/building-your-own-skill.md) | Step-by-step contributor guide |
+| [**Best Practices**](docs/best-practices.md) | Tips, anti-patterns, rules of thumb |
+| [**FAQ**](docs/faq.md) | Common questions answered |
+| [**Glossary**](docs/glossary.md) | PM and system terminology |
+
+<p align="center">
+  <a href="docs/README.md"><strong>📚 Browse All Documentation →</strong></a>
+</p>
+
+---
+
 ## 📐 Skill Format
 
 Every skill follows a **consistent enhanced structure** with YAML frontmatter:
